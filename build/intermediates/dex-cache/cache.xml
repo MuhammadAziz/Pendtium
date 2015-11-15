@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ziddan/AndroidstudioProjects/Pendtium/app/src/main/java/libs/jqurantree.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a4d2a2dd1fc0ead87109a21ca8866ccfe327882c">
+        <dex dex="/Users/ziddan/AndroidstudioProjects/Pendtium/app/build/intermediates/pre-dexed/debug/jqurantree-5d8342b5f3ccc6e363f99ae9057617c49748df2b.jar" />
+    </item>
+    <item
+        jar="/Users/ziddan/AndroidstudioProjects/Pendtium/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/ziddan/AndroidstudioProjects/Pendtium/app/build/intermediates/pre-dexed/debug/classes-6fa996a68ab616230a113e6dbe3e9777b85df272.jar" />
+    </item>
+    <item
+        jar="/Users/ziddan/AndroidstudioProjects/Pendtium/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/ziddan/AndroidstudioProjects/Pendtium/app/build/intermediates/pre-dexed/debug/classes-65f53af5bcae8ecfbc7174085498d9a4b5f76a15.jar" />
+    </item>
+    <item
+        jar="/Users/ziddan/AndroidstudioProjects/Pendtium/app/src/main/java/libs/hvjavacal.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1d8d685ee1d9fb1b3a42582d7d5bc5d6ac985db">
+        <dex dex="/Users/ziddan/AndroidstudioProjects/Pendtium/app/build/intermediates/pre-dexed/debug/hvjavacal-faf3e4f32aaebd4e275d0cbb749c30f6ee01e9dd.jar" />
+    </item>
+    <item
+        jar="/Users/ziddan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/ziddan/AndroidstudioProjects/Pendtium/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-3ad52c921d351e082e32185ad65b9ba5b15b9cb3.jar" />
+    </item>
+    <item
+        jar="/Users/ziddan/AndroidstudioProjects/Pendtium/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/ziddan/AndroidstudioProjects/Pendtium/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-80767f05ab7e91d3eb56bf4ee8935d9ec7f4beed.jar" />
+    </item>
+    <item
+        jar="/Users/ziddan/AndroidstudioProjects/Pendtium/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/ziddan/AndroidstudioProjects/Pendtium/app/build/intermediates/pre-dexed/debug/classes-fe3c153ad71c83ab65abe8c394bb39801e8c7da9.jar" />
+    </item>
+
+</items>
